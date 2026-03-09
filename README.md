@@ -1,0 +1,1 @@
+#prosto kakoy-to text
