@@ -1,1 +1,0 @@
-connected ssh-protocol for linux
